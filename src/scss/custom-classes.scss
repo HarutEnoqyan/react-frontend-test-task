@@ -1,0 +1,13 @@
+.text-gray-600 {
+  color: $gray-600;
+}
+
+.bg-main-gradient {
+  background: $main-gradient;
+}
+
+.text-main-gradient {
+  background: $main-gradient;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
